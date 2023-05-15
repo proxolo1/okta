@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://proxolo:proxolo@proxolo.yllmdjv.mongodb.net/?retryWrites=true&w=majority
+      database : Auth
+
+server:
+  port : 9000
